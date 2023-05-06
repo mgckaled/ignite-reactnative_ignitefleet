@@ -1,10 +1,15 @@
-import { Text, View } from "react-native"
-import { styles } from "./styles"
+import { ImageSourcePropType } from "react-native"
+
+import { Container, Slogan, Title } from "./styles"
+
+import backgroundImg from "../../assets/background.png"
 
 export function SignIn() {
   return (
-    <View style={styles.container}>
-      <Text style={{ color: "#fff" }}>Ignite Fleet</Text>
-    </View>
+    <Container source={backgroundImg as ImageSourcePropType}>
+      <Title>Ignite Fleet</Title>
+
+      <Slogan>Gestão de uso de veículos</Slogan>
+    </Container>
   )
 }
