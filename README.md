@@ -34,7 +34,7 @@
 
 [**Sobre o Projeto**](#sobre-o-projeto) &nbsp;&nbsp;**•**&nbsp;&nbsp;
 [**Configurações**](#configurações) &nbsp;&nbsp;**•**&nbsp;&nbsp;
-[**Texnologias**](#tecnologias) &nbsp;&nbsp;**•**&nbsp;&nbsp;
+[**Tecnologias**](#tecnologias) &nbsp;&nbsp;**•**&nbsp;&nbsp;
 [**Licença**](#licença)&nbsp;&nbsp;**•**&nbsp;&nbsp;
 [**Autor**](#autor)
 
